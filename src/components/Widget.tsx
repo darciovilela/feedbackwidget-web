@@ -3,7 +3,7 @@ import {Popover} from '@headlessui/react'
 import WidgetForm from "./WidgetForm"
 import CloseButton from "./CloseButton"
 
-// componente do icone do acesso ao widget e expansào com texto feedback
+// componente do icone do acesso ao widget e expansão com texto feedback
 function Widget() {
     
     return (
